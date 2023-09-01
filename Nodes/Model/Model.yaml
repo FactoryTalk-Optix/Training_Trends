@@ -1,0 +1,4 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: DataLogger_Variables/DataLogger_Variables.yaml
